@@ -1,4 +1,4 @@
-# 1. Intro
+# 1 Intro
 
 ### 1.1 why
 
